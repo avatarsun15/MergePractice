@@ -1,12 +1,12 @@
 //YouTube影片ID
 let playList = [
-    "7NN4RlKspW0", //讓我留在你身邊
-    "4iVW7OhZ0p8", //全放空
-    "qIF8xvSA0Gw" //飄向北方
+    "l4piTkctzjE", // 我在課金
+    "jLdwN8kBKKw", // 相信大丸代抽 保證抵達非洲
+    "xxHz6ABkbJY" // 君のせい
 ];
 //播放起訖秒數
 let playTime = [
-    [57,62],
-    [79,83],
-    [76,80]  
+    [45,60],
+    [0, 10],
+    [36,45]  
 ];
